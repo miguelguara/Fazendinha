@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfaee9eeab9265b4a96872997a71ea3b, type: 3}
+  m_Name: GiraSol
+  m_EditorClassIdentifier: 
+  Nome: Girasol
+  PlantStages:
+  - {fileID: -1247565294, guid: f20923e72a10e2a438e4c0f010d9d17a, type: 3}
+  - {fileID: -1480646520, guid: f20923e72a10e2a438e4c0f010d9d17a, type: 3}
+  - {fileID: -433273733, guid: f20923e72a10e2a438e4c0f010d9d17a, type: 3}
+  - {fileID: -193547861, guid: f20923e72a10e2a438e4c0f010d9d17a, type: 3}
+  timeBtw: 5
+  preco: 40
+  PrecoVenda: 80
+  icon: {fileID: -1464223555, guid: f20923e72a10e2a438e4c0f010d9d17a, type: 3}
